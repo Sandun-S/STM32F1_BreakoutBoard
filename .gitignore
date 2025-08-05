@@ -20,5 +20,7 @@ Project\ Outputs*/
 # Access lock file for dbLib sources
 **/*.ldb
 
+#Temp files
+**/component/*
 
 # End of https://www.toptal.com/developers/gitignore/api/altium

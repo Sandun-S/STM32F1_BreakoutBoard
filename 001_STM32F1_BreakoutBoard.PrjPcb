@@ -52,11 +52,11 @@ PrefsRevisionGUID=
 [Document1]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotateStartValue=100
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MXNUEXYB
 
 [Document3]
+DocumentPath=component\ECS-.327-9-34B-TR\XTAL_ECS-.327-9-34B-TR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EQQTFIDC
+
+[Document4]
 DocumentPath=..\..\course\Microcontroller-Based Hardware Design With\AltiumDesigner-Libraries-main\AltiumDesigner-Libraries-main\Footprint-Lib-PhilsLab.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=..\..\course\Microcontroller-Based Hardware Design With\AltiumDesigner-Libraries-main\AltiumDesigner-Libraries-main\Schematic-Lib-PhilsLab.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
+DocumentPath=component\ECS-.327-9-34B-TR\ECS-.327-9-34B-TR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DVYTVXUM
+
+[Document7]
 DocumentPath=component\XC6206P302MR-G\XC6206P302MR-G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXBTFSKO
 
-[Document6]
+[Document8]
 DocumentPath=component\XC6206P302MR-G\SOT95P280X130-3N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
